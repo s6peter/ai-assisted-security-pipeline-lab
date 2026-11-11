@@ -1,0 +1,3 @@
+# SCAN-ONLY legacy fixture. Never pip install this file.
+# Deliberately old dependency to make SCA findings visible.
+requests==2.19.1
